@@ -44,4 +44,6 @@
 
 :arrow_right: remover registro: remove um registro baseando-se em um id
 #
-### :eight_spoked_asterisk: OBS: Para retornar a página 'Home' ao acessar 'consulta geral' ou 'consulta especifica', utilize o :back: em seu navegador.
+### :eight_spoked_asterisk: Para retornar a página 'Home' ao acessar 'consulta geral' ou 'consulta especifica', utilize o :back: em seu navegador.
+
+### :eight_spoked_asterisk: O arquivo csv aparecerá como 'Data.csv' no diretório do projeto

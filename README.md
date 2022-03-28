@@ -32,7 +32,7 @@
 
 3️⃣ Execute o arquivo "app.py"
 
-4️⃣ Será mostrado "* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)", clique em  http://127.0.0.1:5000/ e você será direcionado para a página home em seu navegador
+4️⃣ Será mostrado " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit) " na saída da IDE, clique em  http://127.0.0.1:5000/ e você será direcionado para a página home em seu navegador
 
 5️⃣ Você verá as opções: 'consulta geral', 'consulta especifica', 'inserir novo registro', 'remover registro'. Uma breve explicação de cada função:
 

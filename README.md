@@ -26,7 +26,7 @@
 :white_check_mark: [GitHub Desktop](https://desktop.github.com/)
 #
 ### :rocket: Como funciona este projeto?
-:one: Clone este repositório em seu seu computador
+:one: [Clone](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository) este repositório em seu seu computador
 
 2️⃣ Abra o projeto em sua IDE de preferência
 

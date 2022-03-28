@@ -1,8 +1,6 @@
 from flask import Flask,request,render_template
 import datetime
 import Data.BackEnd_Operations
-import webbrowser
-
 
 app = Flask(__name__)
 
@@ -50,4 +48,4 @@ def remover():
     return render_template('Delete.html')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
